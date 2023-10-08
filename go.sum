@@ -221,8 +221,8 @@ github.com/quic-go/qtls-go1-20 v0.1.0 h1:d1PK3ErFy9t7zxKsG3NXBJXZjp/kMLoIb3y/kV5
 github.com/quic-go/qtls-go1-20 v0.1.0/go.mod h1:JKtK6mjbAVcUTN/9jZpvLbGxvdWIKS8uT7EiStoU1SM=
 github.com/quic-go/quic-go v0.32.0 h1:lY02md31s1JgPiiyfqJijpu/UX/Iun304FI3yUqX7tA=
 github.com/quic-go/quic-go v0.32.0/go.mod h1:/fCsKANhQIeD5l76c2JFU+07gVE3KaA0FP+0zMWwfwo=
-github.com/raghava-reddy-invimatic/ezbricksdns v0.0.0 h1:MpWLDrRkANCIdnGSfMIUgUAWG3aswTtc7ECMY7Zy/MQ=
-github.com/raghava-reddy-invimatic/ezbricksdns v0.0.0/go.mod h1:Uev0NjxpHBU+vmBcRVqgXAHwuhphtSYzNp2bTZOR7Go=
+github.com/raghava-reddy-invimatic/ezbricksdns v1.0.0 h1:OkJzUTi8DUXuWzEObbMbTljcCGf03TLjDc/hphrVs+U=
+github.com/raghava-reddy-invimatic/ezbricksdns v1.0.0/go.mod h1:Uev0NjxpHBU+vmBcRVqgXAHwuhphtSYzNp2bTZOR7Go=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=

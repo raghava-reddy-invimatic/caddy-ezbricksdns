@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/caddyserver/caddy/v2 v2.6.4
-	github.com/raghava-reddy-invimatic/ezbricksdns v0.0.0
+	github.com/raghava-reddy-invimatic/ezbricksdns v1.0.0
 )
 
 require (
